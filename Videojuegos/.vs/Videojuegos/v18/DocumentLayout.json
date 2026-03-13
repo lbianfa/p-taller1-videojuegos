@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\",
   "Documents": [
     {
@@ -8,6 +9,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\b09s303est\\pacman\\p-taller1-videojuegos\\videojuegos\\videojuegos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\fredy\\OneDrive\\Documentos\\paradigmas\\p-taller1-videojuegos\\Videojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\fredy\\onedrive\\documentos\\paradigmas\\p-taller1-videojuegos\\videojuegos\\videojuegos\\geometrydash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|solutionrelative:videojuegos\\geometrydash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\fredy\\onedrive\\documentos\\paradigmas\\p-taller1-videojuegos\\videojuegos\\videojuegos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c358fa8445804e2fe3566d144e7585b51aaf483e
       "RelativeMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|solutionrelative:videojuegos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +34,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "PacMan.cs",
               "DocumentMoniker": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\PacMan.cs",
               "RelativeDocumentMoniker": "Videojuegos\\PacMan.cs",
@@ -31,12 +43,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:33:24.354Z",
+=======
+              "Title": "GeometryDash.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\OneDrive\\Documentos\\paradigmas\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\GeometryDash.cs",
+              "RelativeDocumentMoniker": "Videojuegos\\GeometryDash.cs",
+              "ToolTip": "C:\\Users\\fredy\\OneDrive\\Documentos\\paradigmas\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\GeometryDash.cs",
+              "RelativeToolTip": "Videojuegos\\GeometryDash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:39:04.248Z",
+>>>>>>> c358fa8445804e2fe3566d144e7585b51aaf483e
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Class1.cs",
               "RelativeDocumentMoniker": "Videojuegos\\Class1.cs",
               "ToolTip": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Class1.cs",
@@ -44,6 +67,15 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:32:00.376Z",
+=======
+              "DocumentMoniker": "C:\\Users\\fredy\\OneDrive\\Documentos\\paradigmas\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Class1.cs",
+              "RelativeDocumentMoniker": "Videojuegos\\Class1.cs",
+              "ToolTip": "C:\\Users\\fredy\\OneDrive\\Documentos\\paradigmas\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Class1.cs",
+              "RelativeToolTip": "Videojuegos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:24:56.687Z",
+>>>>>>> c358fa8445804e2fe3566d144e7585b51aaf483e
               "EditorCaption": ""
             }
           ]

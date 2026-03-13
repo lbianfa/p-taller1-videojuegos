@@ -20,9 +20,6 @@
       "packagesPath": "C:\\Users\\B09S303est\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\B09S303est\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
