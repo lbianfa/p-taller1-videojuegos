@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yw8kwyVxoS8=",
+  "dgSpecHash": "8QSbvAt4buQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fserna\\Documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Videojuegos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\fserna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\fserna\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\fserna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\B09S303est\\Pacman\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Videojuegos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
