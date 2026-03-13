@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B09S303est\\Documents\\repositorios_poo\\p-taller1-videojuegos\\Videojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\b09s303est\\documents\\repositorios_poo\\p-taller1-videojuegos\\videojuegos\\videojuegos\\batallarpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|solutionrelative:videojuegos\\batallarpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "batallaRPG.cs",
+              "DocumentMoniker": "C:\\Users\\B09S303est\\Documents\\repositorios_poo\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\batallaRPG.cs",
+              "RelativeDocumentMoniker": "Videojuegos\\batallaRPG.cs",
+              "ToolTip": "C:\\Users\\B09S303est\\Documents\\repositorios_poo\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\batallaRPG.cs",
+              "RelativeToolTip": "Videojuegos\\batallaRPG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:46:07.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
