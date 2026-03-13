@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fserna\\Documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\Videojuegos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\fserna\\documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\videojuegos\\videojuegos\\crimsondesert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|solutionrelative:videojuegos\\crimsondesert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|c:\\users\\fserna\\documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\videojuegos\\videojuegos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F6CEB3-0984-42BE-8AB8-35180A2D5537}|Videojuegos\\Videojuegos.csproj|solutionrelative:videojuegos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CrimsonDesert.cs",
+              "DocumentMoniker": "C:\\Users\\fserna\\Documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\CrimsonDesert.cs",
+              "RelativeDocumentMoniker": "Videojuegos\\CrimsonDesert.cs",
+              "ToolTip": "C:\\Users\\fserna\\Documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\CrimsonDesert.cs",
+              "RelativeToolTip": "Videojuegos\\CrimsonDesert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:35:19.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\fserna\\Documents\\docencia\\paradigmas2\\p-taller1-videojuegos\\Videojuegos\\Videojuegos\\Class1.cs",
               "RelativeDocumentMoniker": "Videojuegos\\Class1.cs",
