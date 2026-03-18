@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj": {}
+    "C:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj": {
+    "C:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj",
+        "projectUniqueName": "C:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj",
         "projectName": "Videojuegos",
-        "projectPath": "c:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj",
+        "projectPath": "C:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\Videojuegos.csproj",
         "packagesPath": "C:\\Users\\danid\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\obj\\",
+        "outputPath": "C:\\Users\\danid\\OneDrive\\Documentos\\Semestre 8 con enfasis\\paradigma de la programación\\Taller - Videojuego\\p-taller1-videojuegos\\Videojuegos\\Spaceship\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
